@@ -30,11 +30,11 @@ RESULTS
 
 
 Clone repository:
-git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
-cd Stock-Returns-Prediction-DJIA
+- git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
+- cd Stock-Returns-Prediction-DJIA
 
 Install dependencies: 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 LICENCE
 This repository is for academic purposes only (MSc Data Science – University of Manchester).
