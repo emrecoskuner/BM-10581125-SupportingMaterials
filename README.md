@@ -28,6 +28,14 @@ RESULTS
 - Tree-based methods (RF, XGBoost) performed robustly across medium/low volatility stocks.
 - SVR showed weaker performance in highly volatile sectors (e.g., BA).
 
+
+Clone repository:
+git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
+cd Stock-Returns-Prediction-DJIA
+
+Install dependencies: 
+pip install -r requirements.txt
+
 LICENCE
 This repository is for academic purposes only (MSc Data Science – University of Manchester).
 Please cite appropriately if used.
