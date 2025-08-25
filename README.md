@@ -13,6 +13,7 @@ This repositry contains the code and the resources for MSc Data Science disserta
 - Jupyter Notebook
 - Google Collaboratory for Data Extraction
 - pandas, numpy, scikit-learn, xgboost, tensorflow/keras, statsmodels, matplotlib, seaborn
+- See requirements.txt for library versions.
 
 **MODELS IMPLEMENTED**
 - Machine Learning: Random Forest, XGBoost, Support Vector Regression (SVR)
@@ -38,7 +39,7 @@ cd BM-10581125-SupportingMaterials
 
 Install dependencies: 
 ```bash
-- pip install -r requirements.txt
+pip install -r requirements.txt
 ``` 
 
 **LICENCE**
