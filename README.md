@@ -32,8 +32,9 @@ This repositry contains the code and the resources for MSc Data Science disserta
 
 Clone repository:
 ```bash
-- git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
-- cd BM-10581125-SupportingMaterials
+git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
+cd BM-10581125-SupportingMaterials
+``` </pre>
 
 Install dependencies: 
 - pip install -r requirements.txt
