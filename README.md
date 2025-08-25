@@ -1,3 +1,5 @@
+UNIVERSITY OF MANCHESTER
+
 This repositry contains the code and the resources for MSc Data Science dissertation project: 
 “Time Series Prediction of Stock Returns Using Machine Learning Models: Study on Dow Jones Industrial Average Stocks (2000–2024)”
 
@@ -22,9 +24,9 @@ EVALUATION METRICS
 - Directional Accuracy (DA)
 
 RESULTS
-LSTM was sensitive to highly volatile stocks (e.g., NVDA) and showed unstable performance.
-Tree-based methods (RF, XGBoost) performed robustly across medium/low volatility stocks.
-SVR showed weaker performance in highly volatile sectors (e.g., BA).
+- LSTM was sensitive to highly volatile stocks (e.g., NVDA) and showed unstable performance.
+- Tree-based methods (RF, XGBoost) performed robustly across medium/low volatility stocks.
+- SVR showed weaker performance in highly volatile sectors (e.g., BA).
 
 LICENCE
 This repository is for academic purposes only (MSc Data Science – University of Manchester).
