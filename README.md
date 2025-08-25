@@ -1,4 +1,4 @@
-UNIVERSITY OF MANCHESTER
+University of Manchester
 
 This repositry contains the code and the resources for MSc Data Science dissertation project: 
 “Time Series Prediction of Stock Returns Using Machine Learning Models: Study on Dow Jones Industrial Average Stocks (2000–2024)”
@@ -31,7 +31,7 @@ RESULTS
 
 Clone repository:
 - git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
-- cd Stock-Returns-Prediction-DJIA
+- cd BM-10581125-SupportingMaterials
 
 Install dependencies: 
 - pip install -r requirements.txt
