@@ -7,7 +7,7 @@ DATA
 - Technical Indicators: Momentum, MA20, MA50, RSI, Volatility.
 
 ENVIRONMENT
-- Python 3.11
+- Python 3.9.23
 - Jupyter Notebook
 - Google Collaboratory for Data Extraction
 - pandas, numpy, scikit-learn, xgboost, tensorflow/keras, statsmodels, matplotlib, seaborn
