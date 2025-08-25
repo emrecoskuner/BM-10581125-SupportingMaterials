@@ -34,10 +34,12 @@ Clone repository:
 ```bash
 git clone https://github.com/emrecoskuner/BM-10581125-SupportingMaterials.git
 cd BM-10581125-SupportingMaterials
-``` </pre>
+``` 
 
 Install dependencies: 
+```bash
 - pip install -r requirements.txt
+``` 
 
 **LICENCE**
 This repository is for academic purposes only (MSc Data Science – University of Manchester).
