@@ -1,6 +1,6 @@
 **UNIVERSITY OF MANCHESTER**
 
-This repositry contains the code and the resources for MSc Data Science dissertation project: 
+This repositry contains the code and the resources for MSc Data Science extended research project: 
 “Time Series Prediction of Stock Returns Using Machine Learning Models: Study on Dow Jones Industrial Average Stocks (2000–2024)”
 
 **DATA**
