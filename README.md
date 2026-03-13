@@ -1,5 +1,7 @@
 **UNIVERSITY OF MANCHESTER**
 
+_Updated: Dissertation is now available on main branch, awarded with Distinction via University of Manchester._
+
 This reposiotry contains the code and the resources for MSc Data Science extended research project: 
 “Time Series Prediction of Stock Returns Using Machine Learning Models: Study on Dow Jones Industrial Average Stocks (2000–2024)”
 
